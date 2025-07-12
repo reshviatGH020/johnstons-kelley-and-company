@@ -1004,11 +1004,6 @@
     font-size: 0.95em;
   }
 
-  /* Footer */
-  .footer-logo {
-    width: 375px;
-  }
-  
   .footer-container,
   .footer-branches {
     flex-direction: column;
